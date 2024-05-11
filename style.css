@@ -669,4 +669,11 @@ footer h1 {
     width: 4.3rem;
     border-radius: 50%;
   }
+
+    .phone, #hh
+  {
+  display: flex;
+  color: black;
+  font-size: 80%;
+}
 }
