@@ -437,7 +437,7 @@ footer h1 {
   display: flex;
   flex-wrap: wrap;
   height: auto;
-  width: 90%;
+  width: 50%;
   gap: 5px;
 }
 
